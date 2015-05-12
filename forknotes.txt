@@ -1,0 +1,7 @@
+1) On github, make a new repository
+2) On master, do: git init
+3) nano filename.txt
+4) git add filename.txt
+5) git commit -m "comment"
+6) git status
+7) git push origin master
