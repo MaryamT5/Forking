@@ -4,4 +4,9 @@
 4) git add filename.txt
 5) git commit -m "comment"
 6) git status
-7) git push origin master
+7) git remote add origin https://github.com/sbruzzone/planets.git
+8) git push -u origin master
+9) git push origin master
+10) Forking: find user and do fork (button)
+11) Edit file and clearly write comments
+12) Commit changes from within GitHub
